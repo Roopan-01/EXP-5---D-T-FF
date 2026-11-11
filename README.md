@@ -156,6 +156,7 @@ In DVE:
 The waveform should agree with the truth table.
 
 ## Expected Result
+<img width="1917" height="632" alt="Screenshot 2026-11-11 095724" src="https://github.com/user-attachments/assets/de2e7ca7-9add-4113-b2e1-8b8491fab4f7" />
 
 The D Flip-Flop and T Flip-Flop were realized using Verilog HDL:
 
@@ -165,7 +166,7 @@ Q(next) = T ⊕ Q   (T Flip-Flop)
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 
 ## Output
-<img width="595" height="369" alt="image" src="https://github.com/user-attachments/assets/38290e4d-a813-4e0c-b891-68044c90623b" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-11 095953" src="https://github.com/user-attachments/assets/d8e0202d-8b6e-4f67-b2b4-5c289185dc14" />
 
 ## Viva-Voce Questions
 
